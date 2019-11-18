@@ -1,3 +1,12 @@
+/*
+ * Cálculo fator de vencimento padrão febraban (Federação Brasileira de Bancos)
+ * Linguagem: GoLang
+ * Autor: Alvaro Santos
+ * Data: 13/11/2019
+ * GitHub: https://github.com/alvarosantosph
+ * Email: alvaro_webmaster@hotmail.com
+ */
+
 // Funcao para Gerar Fator de Vencimento de Acordo com a Data de Vencimento
 // Utilizar a data no formato DD/MM/AAAA
 func gerarFatorVencimento(stringData string) string {
